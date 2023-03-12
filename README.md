@@ -1,3 +1,3 @@
 # git-example
 
-## Javascript calculator app
+## Javascript app
